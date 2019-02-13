@@ -26,3 +26,11 @@
 #child3 {
   background-color: lightgreen;
 }
+
+.signup-form {
+  
+}
+
+mat-form-field {
+  width: 300px;
+}
